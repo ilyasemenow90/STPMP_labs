@@ -15,39 +15,40 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/buttonLabOne"
-        android:elevation="0dp"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="openLabOne"
+        />
 
     <Button
         android:text="@string/_btnLaba2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/buttonLabTwo"
-        android:elevation="0dp"
         android:layout_below="@+id/buttonLabOne"
         android:layout_alignLeft="@+id/buttonLabOne"
         android:layout_alignStart="@+id/buttonLabOne"
-        android:layout_marginTop="28dp" />
+        android:layout_marginTop="4dp"
+        android:onClick="openLabTwo"/>
 
     <Button
         android:text="@string/_btnKR"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/buttonKR"
-        android:elevation="0dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="4dp"
         android:layout_below="@+id/buttonLabThree"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="openLabKR" />
 
     <Button
         android:text="@string/_btnLaba3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/buttonLabThree"
-        android:elevation="0dp"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="4dp"
         android:layout_below="@+id/buttonLabTwo"
         android:layout_alignLeft="@+id/buttonLabTwo"
-        android:layout_alignStart="@+id/buttonLabTwo" />
+        android:layout_alignStart="@+id/buttonLabTwo"
+        android:onClick="openLabThree"/>
 </RelativeLayout>
