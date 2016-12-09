@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">STPMP</string>
+    <string name="_btnLaba1">Лаба 1</string>
+    <string name="_btnLaba2">Лаба 2</string>
+    <string name="_btnLaba3">Лаба 3</string>
+    <string name="_btnKR">Контрольная</string>
+</resources>
