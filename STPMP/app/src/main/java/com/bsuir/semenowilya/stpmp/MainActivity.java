@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void openLabThree(View view) {
-
+        Intent intent = new Intent(this, LabThreeActivity.class);
+        startActivity(intent);
     }
 
     public void openLabKR(View view) {

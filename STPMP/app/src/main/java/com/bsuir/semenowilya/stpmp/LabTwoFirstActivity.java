@@ -18,12 +18,7 @@ public class LabTwoFirstActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lab_two_first);
 
-
         editTextItem = (EditText) this.findViewById(R.id.textViewLabTwo);
-
-
-//        InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
-//        imm.showSoftInput(editTextItem, InputMethodManager.SHOW_IMPLICIT);
     }
 
     public void sendTextBtn(View view) {

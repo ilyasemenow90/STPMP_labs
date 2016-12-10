@@ -16,11 +16,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".DisplayMessageActivity" />
-        <activity android:name=".LabTwoFirstActivity"
-                  android:windowSoftInputMode="stateVisible"/>
-
-        <activity android:name=".LabTwoSecondActivity"
-                  android:windowSoftInputMode="stateVisible"></activity>
+        <activity
+            android:name=".LabTwoFirstActivity"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name=".LabTwoSecondActivity"
+            android:windowSoftInputMode="stateVisible" />
+        <activity android:name=".LabThreeActivity"></activity>
     </application>
 
 </manifest>
