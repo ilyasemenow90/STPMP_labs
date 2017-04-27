@@ -3,7 +3,7 @@ package com.bsuir.semenowilya.stpmp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class DisplayMessageActivity extends AppCompatActivity {
+public class LabOneActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
