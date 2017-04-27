@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "firstName": "Егор",
+      "lastName": "Сушко"
+    },
+    {
+      "firstName": "Олег ",
+      "lastName": "Танасюк"
+    },
+    {
+      "firstName": "Алексей",
+      "lastName": "Тарашкевич"
+    },
+    {
+      "firstName": "Антон",
+      "lastName": "Типунов"
+    },
+    {
+      "firstName": "Тодрик",
+      "lastName": "Антоний"
+    },
+    {
+      "firstName": "Артур",
+      "lastName": "Турчин"
+    },
+    {
+      "firstName": "Елизавета",
+      "lastName": "Финашина"
+    },
+    {
+      "firstName": "Надежда",
+      "lastName": "Цегельник"
+    },
+    {
+      "firstName": "Павел ",
+      "lastName": "Дедовец"
+    }
+  ]
+}

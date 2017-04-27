@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openLabKR(View view) {
-
+        Intent intent = new Intent(this, LabKPActivity.class);
+        startActivity(intent);
     }
 }

@@ -10,4 +10,5 @@
     <string name="_labTwoButtonSecondEditTextHint">Введите текст</string>
     <string name="_labTwoSecondButtonText">Отправить текст на первый экран</string>
     <string name="_btnLabaThreeStartBackgroundTask">Запустить отсчёт времени</string>
+    <string name="title_activity_lab_kp">LabKPActivity</string>
 </resources>

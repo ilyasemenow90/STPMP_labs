@@ -22,7 +22,11 @@
         <activity
             android:name=".LabTwoSecondActivity"
             android:windowSoftInputMode="stateVisible" />
-        <activity android:name=".LabThreeActivity"></activity>
+        <activity android:name=".LabThreeActivity" />
+        <activity
+            android:name=".LabKPActivity"
+            android:label="@string/title_activity_lab_kp"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
